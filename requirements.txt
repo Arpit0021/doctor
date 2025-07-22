@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+opencv-python-headless
+pillow
+scikit-image
+google-generativeai
+reportlab
+scikit-learn
+biopython
+pydicom
+nibabel
